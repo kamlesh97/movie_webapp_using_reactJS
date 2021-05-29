@@ -4,7 +4,7 @@ import { data } from "./components/data";
 import { addMovie, setShowFavourite } from "./actions/index";
 import Moviecard from "./components/Moviecard";
 import { connect } from 'react-redux';
-import {StoreContext} from './index'
+// import {StoreContext} from './index'
 
 
 class App extends React.Component {
